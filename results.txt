@@ -1,0 +1,216 @@
+
+--- Session 1 ---
+Time  : 2026-05-26 12:23:09
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello Krishna,
+
+The timetable for next week's Cyber and Digital Science classes ...
+
+--- Session 2 ---
+Time  : 2026-05-26 12:23:28
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 3 ---
+Time  : 2026-05-26 12:23:29
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 4 ---
+Time  : 2026-05-26 12:24:00
+Risk  : HIGH
+Score : 10
+Flags : urgency | financial | suspicious_link | excess_caps | exclamation_marks | repeated_symbols
+Email : URGENT ACTION REQUIRED!!!
+
+Your bank account has been temporarily suspended due ...
+
+--- Session 5 ---
+Time  : 2026-05-26 12:25:52
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 6 ---
+Time  : 2026-05-26 12:25:54
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 7 ---
+Time  : 2026-05-26 12:25:54
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 8 ---
+Time  : 2026-05-26 12:25:54
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 9 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 10 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 11 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 12 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 13 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 14 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 15 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 16 ---
+Time  : 2026-05-26 12:25:55
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 17 ---
+Time  : 2026-05-26 12:25:56
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 18 ---
+Time  : 2026-05-26 12:25:56
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 19 ---
+Time  : 2026-05-26 12:25:56
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...
+
+--- Session 20 ---
+Time  : 2026-05-26 12:25:56
+Risk  : SAFE
+Score : 0
+Flags : None
+Email : Hello User,
+
+Your password will expire in 24 hours.
+
+Please update your credenti...

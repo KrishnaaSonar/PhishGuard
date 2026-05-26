@@ -8,17 +8,11 @@ The application provides a graphical interface built with CustomTkinter and gene
 
 ## ✨ Features
 
-🔍 Email phishing detection
-
-📊 Risk scoring system
-
-🚨 Threat keyword analysis
-
-📝 Detection history tracking
-
-📁 Report generation and export support
-
-🖥️ CustomTkinter GUI interface
+🔍 Email phishing detection  
+📊 Risk scoring system  
+🚨 Threat keyword analysis  
+📁 Report generation and export support  
+🖥️ CustomTkinter GUI interface  
 
 📈 Result logging
 
@@ -108,51 +102,36 @@ Results are saved for later review and reporting.
 ### Safe Email
 
 Subject:
-Meeting Reminder
-
+Meeting Reminder  
 Message:
-
-Hi Team,
-
-Reminder for tomorrow’s project discussion at 10 AM.
-
+ Hi Team,
+ Reminder for tomorrow’s project discussion at 10 AM.  
 Result:
-
-Safe ✅
+ Safe ✅  
 
 ---
 
 ### Suspicious Email
 
 Subject:
-Account Verification Needed
-
+ Account Verification Needed  
 Message:
-
-Please verify your account details soon.
-
+ Please verify your account details soon.  
 Result:
-
-Suspicious ⚠️
+ Suspicious ⚠️  
 
 ---
 
 ### Phishing Email
 
 Subject:
-URGENT: Bank Verification
-
+URGENT: Bank Verification  
 Message:
-
-Your account will be disabled in 24 hours.
-
+Your account will be disabled in 24 hours.  
 Click immediately:
-
-http://verify-bank-login.xyz
-
+http://verify-bank-login.xyz  
 Result:
-
-Phishing 🚨
+Phishing 🚨  
 
 ---
 
@@ -191,10 +170,9 @@ Phishing 🚨
 ---
 
 ## 👨‍💻 Author
-Krishna Sonar
+  Krishna Sonar
 
 ---
 
 ## 📜 License
-
 This project is intended for educational and cybersecurity learning purposes.
